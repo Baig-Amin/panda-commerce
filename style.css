@@ -60,3 +60,20 @@
 .card-footer {
   border-top: none;
 }
+
+#subscribe {
+  height: 300px;
+}
+
+#subscribe h6 {
+  color: gray;
+}
+
+#bbtn {
+  margin-top: 5px;
+}
+
+footer {
+  font-size: smaller;
+  text-align: center;
+}
